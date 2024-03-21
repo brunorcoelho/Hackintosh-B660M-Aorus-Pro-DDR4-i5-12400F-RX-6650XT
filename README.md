@@ -1,5 +1,7 @@
 ﻿# Hackintosh
 ### B660M AORUS PRO DDR4 / Intel i5 12400F / AMD Radeon RX 6650 XT
+<img width="1888" alt="Screenshot 2024-03-21 at 12 00 33 1" src="https://github.com/brunorcoelho/Hackintosh-B660M-Aorus-Pro-DDR4-i5-12400F-RX-6650XT/assets/71451870/8174b1e0-ddbe-4495-9ef2-e8f0a5683e1b">
+
 This repository contains my EFI used to successfully boot OpenCore 0.9.9 and install macOS Sonoma 14.4.
 
 ## Specifications
